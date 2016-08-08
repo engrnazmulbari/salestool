@@ -7,7 +7,7 @@ public class Main {
 		displayGreeting();
 		data.display();
 		System.out.println("bangladesh");
-		System.out.println("nnn");
+		System.out.println("nnnnnnnnnnn");
 		System.out.println("nnn");
 		System.out.println("Bari");
 	}
