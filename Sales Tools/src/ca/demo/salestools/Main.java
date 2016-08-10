@@ -14,7 +14,7 @@ public class Main {
 	public static void displayGreeting(){
 		System.out.println("CAPITAL");
 		System.out.println("This app shows sales data");
-		System.out.println("second output");
+		System.out.println("second output"+" BARI");
 		
 	}
 
